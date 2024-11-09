@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mabubakar486&label=Profile%20views&color=0e75b6&style=flat" alt="mabubakar486" /> </p>
 
 
-- 🌱 I’m currently learning New Tech **React**
+- 🌱 I’m currently learning New Technologies.
 
 - 👨‍💻 All of my projects are available at [(Unavailable)]((Unavailable))
 
