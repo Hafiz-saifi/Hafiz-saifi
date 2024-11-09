@@ -1,3 +1,4 @@
+![logo](https://github.com/MAbuBakar486/Hafiz-saifi/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Hafiz Muhammad Abu Bakar</h1>
 <h3 align="center">A Passionate Software Engineering. Frontend developer from Pakistan</h3>
 
